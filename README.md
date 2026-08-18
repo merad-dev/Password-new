@@ -2,7 +2,6 @@
 <p align="center">
   <img alt="Password-new Logo Dark Terminal" src="https://github.com/merad-dev/Password-new/raw/main/Screenshot_20260818-190540~3.jpg" width="280">
 </p>
-**A professional CLI tool for generating secure random passwords**  
 No external libraries required – works on Python 3.6+
 
 ![Python](https://img.shields.io/badge/Python-3.6%2B-blue?logo=python&logoColor=white)
