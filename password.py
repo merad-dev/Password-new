@@ -34,7 +34,6 @@ def banner():
     print(f"{C.CYAN}{C.BOLD}{ascii_art}{C.RESET}")
     print(f"{C.YELLOW}{C.BOLD}     PASSWORD GENERATOR TOOL{C.RESET}")
     print(f"{C.MAGENTA}     Telegram: {C.BOLD}@MeradDev_Official{C.RESET}")
-    print(f"{C.DIM}     Secure - Fast - No External Libraries{C.RESET}")
 
 def print_box(text, color=C.GREEN):
     lines = text.split('\n')
